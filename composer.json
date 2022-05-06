@@ -1,9 +1,9 @@
 {
-    "name": "liererkt/my-package",
+    "name": "weatherpackage/cse451-yangy49",
     "description": "for cse451",
     "autoload": {
         "psr-4": {
-            "Liererkt\\MyPackage\\": "src/"
+            "Weatherpackage\\Cse451Yangy49\\": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,7 @@
             "email": "yangy49@miamioh.edu"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
 }
