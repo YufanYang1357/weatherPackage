@@ -1,0 +1,16 @@
+{
+    "name": "liererkt/my-package",
+    "description": "for cse451",
+    "autoload": {
+        "psr-4": {
+            "Liererkt\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yufan Yang",
+            "email": "yangy49@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
